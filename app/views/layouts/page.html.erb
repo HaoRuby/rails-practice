@@ -7,7 +7,7 @@
     <title><%= @title %></title>
     <%= csrf_meta_tags %>
 
-    <%= stylesheet_link_tag    'client', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= stylesheet_link_tag 'client', recursive: false, media: 'all', 'data-turbolinks-track': 'reload' %>
 
   </head>
 
@@ -56,6 +56,6 @@
         </div>
       </div>
     </footer> <!-- /footer -->
-    <%= javascript_include_tag 'client', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'client', recursive: false, 'data-turbolinks-track': 'reload' %>
   </body>
 </html>
