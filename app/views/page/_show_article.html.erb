@@ -5,7 +5,7 @@
         <div class="panel panel-default">
           <div class="panel-heading">
             <div class="heading-img"><%= link_to(image_tag(article.image, class: 'img-responsive'), article.link) %></div>
-            <div class="heading-title"><h2><%= link_to article.title, article.link %></h2></div>
+            <div class="heading-title"><h2><%= link_to article.title, 'http://' + article.link %></h2></div>
           </div>
           <div class="panel-body"><%= article.content %></div>
           <div class="panel-footer">
