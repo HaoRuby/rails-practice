@@ -1,0 +1,25 @@
+<div class="row new-article">
+  <% count = 0  %>
+  <% obj.each do |article|  %>
+      <div class="col-sm-6">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <div class="heading-img"><%= link_to(image_tag(article.image, class: 'img-responsive'), article.link) %></div>
+            <div class="heading-title"><h2><%= link_to article.title, article.link %></h2></div>
+          </div>
+          <div class="panel-body"><%= article.content %></div>
+          <div class="panel-footer">
+            <% article.categories.each do |category| %>
+                <span class="label label-info"><%= link_to category.name, category %></span>
+            <% end  %>
+            <span class="label label-success"><%= article.from %></span>
+          </div>
+        </div>
+      </div>
+      <% count += 1  %>
+      <% if count.even?  %>
+        <div class="clearfix"></div>
+      <% end  %>
+  <% end  %>
+</div> <!--/new article-->
+

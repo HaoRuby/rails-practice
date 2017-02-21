@@ -1,0 +1,5 @@
+<%# The top new article show in this page  %>
+<%= render 'page/show_article', obj: @articles %>
+<div class="row text-center paginate">
+  <%= will_paginate @articles %>
+</div>
