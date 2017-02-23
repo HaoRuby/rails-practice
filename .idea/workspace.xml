@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf9808e0-acb6-4c20-941f-40b5115987ca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/scheduler.rake" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/tasks/ping.rake" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="cf9808e0-acb6-4c20-941f-40b5115987ca" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -861,12 +857,12 @@
       <workItem from="1487638287689" duration="11826000" />
       <workItem from="1487662587768" duration="2952000" />
       <workItem from="1487669284750" duration="1587000" />
-      <workItem from="1487812944637" duration="5626000" />
+      <workItem from="1487812944637" duration="6229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68299000" />
+    <option name="totallyTimeSpent" value="68902000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
