@@ -25,8 +25,8 @@
       <file leaf-file-name="ping.rake" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/tasks/ping.rake">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+            <state relative-caret-position="360">
+              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -858,12 +858,12 @@
       <workItem from="1487638287689" duration="11826000" />
       <workItem from="1487662587768" duration="2952000" />
       <workItem from="1487669284750" duration="1587000" />
-      <workItem from="1487812944637" duration="4604000" />
+      <workItem from="1487812944637" duration="5240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67277000" />
+    <option name="totallyTimeSpent" value="67913000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1249,8 +1249,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/tasks/ping.rake">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        <state relative-caret-position="360">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
           <folding />
         </state>
       </provider>
