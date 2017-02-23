@@ -67,3 +67,4 @@ gem 'devise'
 
 # HTML parser
 gem 'nokogiri'
+

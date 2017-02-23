@@ -82,4 +82,5 @@ class Article < ApplicationRecord
   def self.get_html_data(url)
     html_data = Nokogiri::HTML(open(url))
   end
+
 end
